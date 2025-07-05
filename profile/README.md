@@ -3,19 +3,16 @@
 </p>
 
 <h2 align="center">Diyarbakır Software Community</h2>
-<p align="center"><i>Rising Together in the Digital World</i></p>
-
-
 
 <img src="../assets/cover.jpg" alt="Community banner" style="width:100%; margin-top: 10px;" />
 
----
+
 
 ## 🌟 About
 
 Diyarbakır Software Community is a non-profit group founded in **November 2024** to connect tech enthusiasts, support learning, and build a collaborative open-source ecosystem.
 
----
+
 
 ## 💼 What You'll Find Here
 
@@ -23,7 +20,7 @@ Diyarbakır Software Community is a non-profit group founded in **November 2024*
 - Workshop & event materials  
 - Contribution guidelines  
 
----
+
 
 ## 🤝 Join Us
 Feel free to connect with us or join our community through the following channels:
@@ -34,10 +31,8 @@ Feel free to connect with us or join our community through the following channel
 
 📌 [X / Twitter](https://x.com/diyaryazilim)
 
-📌 [Discord](https://discord.gg/diyarbakiryazilim)
+<!-- 📌 [Discord](https://discord.gg/diyarbakiryazilim) -->
 
 📌 [Instagram](https://www.instagram.com/diyarbakiryazilim)
 
 📌 [YouTube](https://www.youtube.com/@diyarbakiryazilim)
-
----
