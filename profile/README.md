@@ -25,7 +25,7 @@ Diyarbakır Software Community is a non-profit group founded in **November 2024*
 ## 🤝 Join Us
 Feel free to connect with us or join our community through the following channels:
 
-🌐 [https://www.diyarbakiryazilim.org.tr](https://www.diyarbakiryazilim.org.tr)
+🌐 [https://www.diyarbakiryazilim.org](https://www.diyarbakiryazilim.org)
 
 📌 [LinkedIn](https://www.linkedin.com/company/diyarbak%C4%B1r-yaz%C4%B1l%C4%B1m-toplulu%C4%9Fu)
 
