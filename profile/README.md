@@ -27,7 +27,7 @@ Feel free to connect with us or join our community through the following channel
 
 🌐 [https://www.diyarbakiryazilim.org](https://www.diyarbakiryazilim.org)
 
-📌 [LinkedIn](https://www.linkedin.com/company/diyarbak%C4%B1r-yaz%C4%B1l%C4%B1m-toplulu%C4%9Fu)
+📌 [LinkedIn](https://www.linkedin.com/company/diyarbakir-yazilim-toplulugu)
 
 📌 [X / Twitter](https://x.com/diyaryazilim)
 
