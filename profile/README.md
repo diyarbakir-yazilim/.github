@@ -1,29 +1,29 @@
 <p align="center">
-  <img src="../assets/logo.png" alt="Diyarbakır Software Community Logo" width="120" />
+  <img src="../assets/logo.png" alt="Diyarbakır Yazılım Topluluğu Logo" width="120" />
 </p>
 
-<h2 align="center">Diyarbakır Software Community</h2>
+<h2 align="center">Diyarbakır Yazılım Topluluğu</h2>
 
 <img src="../assets/cover.jpg" alt="Community banner" style="width:100%; margin-top: 10px;" />
 
 
 
-## 🌟 About
+## 🌟 Hakkında
 
-Diyarbakır Software Community is a non-profit group founded in **November 2024** to connect tech enthusiasts, support learning, and build a collaborative open-source ecosystem.
-
-
-
-## 💼 What You'll Find Here
-
-- Open-source community projects  
-- Workshop & event materials  
-- Contribution guidelines  
+Diyarbakır Yazılım Topluluğu, teknoloji meraklılarını bir araya getirmek, öğrenmeyi desteklemek ve iş birliğine dayalı bir açık kaynak ekosistemi oluşturmak amacıyla **Kasım 2024**'te kurulan, kâr amacı gütmeyen bir topluluktur.
 
 
 
-## 🤝 Join Us
-Feel free to connect with us or join our community through the following channels:
+## 💼 Burada Bulabilecekleriniz
+
+- Açık kaynak topluluk projeleri
+- Atölye ve etkinlik materyalleri
+- Katkıda bulunma yönergeleri
+
+
+
+## 🤝 Bize Katılın
+Aşağıdaki kanallar aracılığıyla bizimle iletişime geçmekten veya topluluğumuza katılmaktan çekinmeyin:
 
 🌐 [https://www.diyarbakiryazilim.org](https://www.diyarbakiryazilim.org)
 
